@@ -12,7 +12,7 @@ Pixel intensity gradients are generated and used to define the kV field edges.
   
 ## Running the notebooks in colab  
 To run the notebooks in google colab, follow the links:  
-https://colab.research.google.com/github/UCLHp/kV_Field_Analysis/blob/demo/kVFieldSizeThresholdMethod.ipynb  
+https://colab.research.google.com/github/UCLHp/kV_Field_Analysis/blob/demo/kV_Field_Size_Threshold_Method.ipynb  
 https://colab.research.google.com/github/UCLHp/kV_Field_Analysis/blob/demo/kV_Field_Size_Gradient_Method.ipynb  
 https://colab.research.google.com/github/UCLHp/kV_Field_Analysis/blob/demo/kV_Field_Size_Otsu_Method.ipynb  
   
